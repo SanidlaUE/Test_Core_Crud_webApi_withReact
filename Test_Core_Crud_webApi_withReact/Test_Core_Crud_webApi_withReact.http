@@ -1,0 +1,6 @@
+@Test_Core_Crud_webApi_withReact_HostAddress = http://localhost:5183
+
+GET {{Test_Core_Crud_webApi_withReact_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
